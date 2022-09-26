@@ -1,3 +1,5 @@
+PROJETO PASSADO PELA TRYBE QUE CONSISTIA EM FAZER UM REQUERIMENTO API E CRIAR UM CARRINHO DE COMPRAS:
+
 # Boas-vindas ao repositório do projeto Carrinho de Compras!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
